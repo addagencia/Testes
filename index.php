@@ -8,6 +8,7 @@
 <body>
 
 <?PHP
+	echo "HelloWorld<br />";
 	echo phpinfo();
 ?>
 
